@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-size: 16px;
+}
+.center {
+    margin: 0;
+    display:flex
+}
+
+header,footer {
+    background: #2aa52a;
+}
+
+header {
+    padding: 15px 0;
+}
+
+main {
+    padding: 20px;
+    display:flex;
+}
+
